@@ -1,8 +1,6 @@
-<h3>skfd — working on</h3>
-
-<p><sub>Toronto · OpenStreetMap & open-data tooling</sub></p>
 <p><sub>currently: generalizing Toronto address tooling into <a href="https://github.com/skfd/address-layerist">address-layerist</a></sub></p>
-<p><sub>Thumbnail & title → live site · <code>code</code> → source</sub></p>
+
+<h3>Toronto · OpenStreetMap & open-data tooling</h3>
 
 <table>
 <tr>
