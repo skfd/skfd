@@ -63,4 +63,30 @@
 <tr>
 <td valign="top">
 <a href="https://skfd.github.io/chinamaxxing-checklist/"><img width="245" src="assets/shots/chinamaxxing-checklist.jpg"></a><br>
-<b><a 
+<b><a href="https://skfd.github.io/chinamaxxing-checklist/">chinamaxxing-checklist</a></b><br>
+<sub>Become-a-China-expert checklist · <a href="https://github.com/skfd/chinamaxxing-checklist"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://github.com/skfd/token-budget"><img width="245" src="assets/shots/token-budget.jpg"></a><br>
+<b><a href="https://github.com/skfd/token-budget">token-budget</a></b><br>
+<sub>Windows 11 widget for LLM token quotas · desktop app</sub>
+</td>
+<td valign="top"></td>
+</tr>
+</table>
+
+<h3>Also</h3>
+
+<p><sub>
+<a href="https://github.com/skfd/address-layerist">address-layerist</a> — engine behind the address tile layers ·
+<a href="https://skfd.github.io/oakville-address-layer/">oakville-address-layer</a> ·
+<a href="https://skfd.github.io/toronto-parks-layer/">toronto-parks-layer</a> ·
+<a href="https://github.com/skfd/toronto-addresses-import">toronto-addresses-import</a> ·
+<a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a> — browse & resume Claude Code sessions ·
+<a href="https://skfd.github.io/iba-cocktails/">iba-cocktails</a> ·
+<a href="https://skfd.github.io/colour_snake/">colour_snake</a> ·
+<a href="https://github.com/skfd/bikeshare-toronto-maproulette">bikeshare-toronto-maproulette</a> ·
+<a href="https://github.com/skfd/FixMeAwesome">FixMeAwesome</a>
+</sub></p>
+
+<!-- Repo must be named exactly "skfd" to render on your profile. Thumbnails live in assets/shots/. -->
