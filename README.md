@@ -87,6 +87,15 @@
 <sub>All 87 official IBA cocktails, tracked · <a href="https://github.com/skfd/iba-cocktails"><code>code</code></a></sub>
 </td>
 </tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/skfd/mobile-internet-widget"><img width="245" src="assets/shots/mobile-internet-widget.jpg"></a><br>
+<b><a href="https://github.com/skfd/mobile-internet-widget">mobile-internet-widget</a></b><br>
+<sub>Windows 11 widget for Rogers/Fido data quotas · desktop app</sub>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
 </table>
 
 <h3>Also</h3>
