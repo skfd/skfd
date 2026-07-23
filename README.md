@@ -1,6 +1,7 @@
 <h3>skfd — working on</h3>
 
 <p><sub>Toronto · OpenStreetMap & open-data tooling</sub></p>
+<p><sub>currently: generalizing Toronto address tooling into <a href="https://github.com/skfd/address-layerist">address-layerist</a></sub></p>
 <p><sub>Thumbnail & title → live site · <code>code</code> → source</sub></p>
 
 <table>
@@ -38,6 +39,19 @@
 <sub>Address tiles for iD/JOSM · <a href="https://github.com/skfd/toronto-addresses-layer"><code>code</code></a></sub>
 </td>
 </tr>
+<tr>
+<td valign="top">
+<a href="https://skfd.github.io/oakville-address-layer/"><img width="245" src="assets/shots/oakville-address-layer.jpg"></a><br>
+<b><a href="https://skfd.github.io/oakville-address-layer/">oakville-address-layer</a></b><br>
+<sub>Oakville address tiles for iD/JOSM · <a href="https://github.com/skfd/oakville-address-layer"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://skfd.github.io/toronto-parks-layer/"><img width="245" src="assets/shots/toronto-parks-layer.jpg"></a><br>
+<b><a href="https://skfd.github.io/toronto-parks-layer/">toronto-parks-layer</a></b><br>
+<sub>Parks + green-space tiles · <a href="https://github.com/skfd/toronto-parks-layer"><code>code</code></a></sub>
+</td>
+<td valign="top"></td>
+</tr>
 </table>
 
 <h3>More projects</h3>
@@ -71,7 +85,11 @@
 <b><a href="https://github.com/skfd/token-budget">token-budget</a></b><br>
 <sub>Windows 11 widget for LLM token quotas · desktop app</sub>
 </td>
-<td valign="top"></td>
+<td valign="top">
+<a href="https://skfd.github.io/iba-cocktails/"><img width="245" src="assets/shots/iba-cocktails.jpg"></a><br>
+<b><a href="https://skfd.github.io/iba-cocktails/">iba-cocktails</a></b><br>
+<sub>All 87 official IBA cocktails, tracked · <a href="https://github.com/skfd/iba-cocktails"><code>code</code></a></sub>
+</td>
 </tr>
 </table>
 
@@ -79,14 +97,11 @@
 
 <p><sub>
 <a href="https://github.com/skfd/address-layerist">address-layerist</a> — engine behind the address tile layers ·
-<a href="https://skfd.github.io/oakville-address-layer/">oakville-address-layer</a> ·
-<a href="https://skfd.github.io/toronto-parks-layer/">toronto-parks-layer</a> ·
-<a href="https://github.com/skfd/toronto-addresses-import">toronto-addresses-import</a> ·
 <a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a> — browse & resume Claude Code sessions ·
-<a href="https://skfd.github.io/iba-cocktails/">iba-cocktails</a> ·
 <a href="https://skfd.github.io/colour_snake/">colour_snake</a> ·
 <a href="https://github.com/skfd/bikeshare-toronto-maproulette">bikeshare-toronto-maproulette</a> ·
-<a href="https://github.com/skfd/FixMeAwesome">FixMeAwesome</a>
+<a href="https://github.com/skfd/FixMeAwesome">FixMeAwesome</a> ·
+<a href="https://github.com/skfd/toronto-addresses-import">toronto-addresses-import</a> (archived)
 </sub></p>
 
 <!-- Repo must be named exactly "skfd" to render on your profile. Thumbnails live in assets/shots/. -->
