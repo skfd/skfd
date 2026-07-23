@@ -17,17 +17,12 @@
 <sub>Street tiles for iD/JOSM · <a href="https://github.com/skfd/toronto-streets-layer"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
-<a href="https://skfd.github.io/toronto-waterways-layer/"><img width="245" src="assets/shots/toronto-waterways-layer.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-waterways-layer/">toronto-waterways-layer</a></b><br>
-<sub>Rivers + creeks tiles · <a href="https://github.com/skfd/toronto-waterways-layer"><code>code</code></a></sub>
-</td>
-</tr>
-<tr>
-<td valign="top">
 <a href="https://skfd.github.io/ontario-address-changes/"><img width="245" src="assets/shots/ontario-address-changes.jpg"></a><br>
 <b><a href="https://skfd.github.io/ontario-address-changes/">ontario-address-changes</a></b><br>
 <sub>Ontario civic-address change tracker · <a href="https://github.com/skfd/ontario-address-changes"><code>code</code></a></sub>
 </td>
+</tr>
+<tr>
 <td valign="top">
 <a href="https://skfd.github.io/toronto-2-address-import/"><img width="245" src="assets/shots/toronto-2-address-import.jpg"></a><br>
 <b><a href="https://skfd.github.io/toronto-2-address-import/">toronto-2-address-import</a></b><br>
@@ -38,18 +33,19 @@
 <b><a href="https://skfd.github.io/toronto-addresses-layer/">toronto-addresses-layer</a></b><br>
 <sub>Address tiles for iD/JOSM · <a href="https://github.com/skfd/toronto-addresses-layer"><code>code</code></a></sub>
 </td>
-</tr>
-<tr>
 <td valign="top">
 <a href="https://skfd.github.io/oakville-address-layer/"><img width="245" src="assets/shots/oakville-address-layer.jpg"></a><br>
 <b><a href="https://skfd.github.io/oakville-address-layer/">oakville-address-layer</a></b><br>
 <sub>Oakville address tiles for iD/JOSM · <a href="https://github.com/skfd/oakville-address-layer"><code>code</code></a></sub>
 </td>
+</tr>
+<tr>
 <td valign="top">
 <a href="https://skfd.github.io/toronto-parks-layer/"><img width="245" src="assets/shots/toronto-parks-layer.jpg"></a><br>
 <b><a href="https://skfd.github.io/toronto-parks-layer/">toronto-parks-layer</a></b><br>
 <sub>Parks + green-space tiles · <a href="https://github.com/skfd/toronto-parks-layer"><code>code</code></a></sub>
 </td>
+<td valign="top"></td>
 <td valign="top"></td>
 </tr>
 </table>
@@ -101,7 +97,8 @@
 <a href="https://skfd.github.io/colour_snake/">colour_snake</a> ·
 <a href="https://github.com/skfd/bikeshare-toronto-maproulette">bikeshare-toronto-maproulette</a> ·
 <a href="https://github.com/skfd/FixMeAwesome">FixMeAwesome</a> ·
-<a href="https://github.com/skfd/toronto-addresses-import">toronto-addresses-import</a> (archived)
+<a href="https://github.com/skfd/toronto-addresses-import">toronto-addresses-import</a> (archived) ·
+<a href="https://skfd.github.io/toronto-waterways-layer/">toronto-waterways-layer</a> (archived)
 </sub></p>
 
 <!-- Repo must be named exactly "skfd" to render on your profile. Thumbnails live in assets/shots/. -->
