@@ -102,6 +102,8 @@
 
 <p><sub>
 <a href="https://github.com/skfd/address-layerist">address-layerist</a> — engine behind the address tile layers ·
+<a href="https://github.com/skfd/address-vault">address-vault</a> — tiered snapshot store feeding the address tooling ·
+<a href="https://github.com/skfd/against-interpolation">against-interpolation</a> — MapRoulette tasks to retire Toronto interpolation lines ·
 <a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a> — browse & resume Claude Code sessions ·
 <a href="https://skfd.github.io/colour_snake/">colour_snake</a> ·
 <a href="https://github.com/skfd/bikeshare-toronto-maproulette">bikeshare-toronto-maproulette</a> ·
