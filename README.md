@@ -75,24 +75,29 @@
 <sub>Become-a-China-expert checklist · <a href="https://github.com/skfd/chinamaxxing-checklist"><code>code</code></a></sub>
 </td>
 <td valign="top">
-<a href="https://github.com/skfd/token-budget"><img width="245" src="assets/shots/token-budget.jpg"></a><br>
-<b><a href="https://github.com/skfd/token-budget">token-budget</a></b><br>
-<sub>Windows 11 widget for LLM token quotas · desktop app</sub>
-</td>
-<td valign="top">
 <a href="https://skfd.github.io/iba-cocktails/"><img width="245" src="assets/shots/iba-cocktails.jpg"></a><br>
 <b><a href="https://skfd.github.io/iba-cocktails/">iba-cocktails</a></b><br>
 <sub>All 87 official IBA cocktails, tracked · <a href="https://github.com/skfd/iba-cocktails"><code>code</code></a></sub>
 </td>
+<td valign="top"></td>
 </tr>
+</table>
+
+<h3>Windows software</h3>
+
+<table>
 <tr>
-<td valign="top">
+<td valign="top" width="33%">
+<a href="https://github.com/skfd/token-budget"><img width="245" src="assets/shots/token-budget.jpg"></a><br>
+<b><a href="https://github.com/skfd/token-budget">token-budget</a></b><br>
+<sub>Windows 11 widget for LLM token quotas · desktop app</sub>
+</td>
+<td valign="top" width="33%">
 <a href="https://github.com/skfd/mobile-internet-widget"><img width="245" src="assets/shots/mobile-internet-widget.jpg"></a><br>
 <b><a href="https://github.com/skfd/mobile-internet-widget">mobile-internet-widget</a></b><br>
 <sub>Windows 11 widget for Rogers/Fido data quotas · desktop app</sub>
 </td>
-<td valign="top"></td>
-<td valign="top"></td>
+<td valign="top" width="33%"></td>
 </tr>
 </table>
 
