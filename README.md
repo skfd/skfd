@@ -104,7 +104,7 @@
 <sub>Windows 11 widget for Rogers/Fido data quotas · desktop app</sub>
 </td>
 <td valign="top" width="33%">
-<a href="https://github.com/skfd/sky-session-claude"><img width="245" src="https://opengraph.githubassets.com/1/skfd/sky-session-claude"></a><br>
+<a href="https://github.com/skfd/sky-session-claude"><img width="245" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/screenshot.png"></a><br>
 <b><a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a></b><br>
 <sub>Browse & resume Claude Code sessions · desktop app</sub>
 </td>
