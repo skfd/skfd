@@ -48,7 +48,7 @@
 </tr>
 </table>
 
-<h3>More projects</h3>
+<h3>Data stories (data journalism)</h3>
 
 <table>
 <tr>
@@ -63,23 +63,29 @@
 <sub>Postal code change tracker · <a href="https://github.com/skfd/canada-postal-code-changes"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
+</td>
+</tr>
+</table>
+
+<h3>Just for fun</h3>
+
+<table>
+<tr>
+<td valign="top" width="33%">
 <a href="https://skfd.github.io/holy-bip39le/"><img width="245" src="assets/shots/holy-bip39le.jpg"></a><br>
 <b><a href="https://skfd.github.io/holy-bip39le/">holy-bip39le</a></b><br>
 <sub>BIP39 wallets hidden in literature · <a href="https://github.com/skfd/holy-bip39le"><code>code</code></a></sub>
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td valign="top" width="33%">
 <a href="https://skfd.github.io/chinamaxxing-checklist/"><img width="245" src="assets/shots/chinamaxxing-checklist.jpg"></a><br>
 <b><a href="https://skfd.github.io/chinamaxxing-checklist/">chinamaxxing-checklist</a></b><br>
 <sub>Become-a-China-expert checklist · <a href="https://github.com/skfd/chinamaxxing-checklist"><code>code</code></a></sub>
 </td>
-<td valign="top">
+<td valign="top" width="33%">
 <a href="https://skfd.github.io/iba-cocktails/"><img width="245" src="assets/shots/iba-cocktails.jpg"></a><br>
 <b><a href="https://skfd.github.io/iba-cocktails/">iba-cocktails</a></b><br>
 <sub>All 87 official IBA cocktails, tracked · <a href="https://github.com/skfd/iba-cocktails"><code>code</code></a></sub>
 </td>
-<td valign="top"></td>
 </tr>
 </table>
 
@@ -97,7 +103,11 @@
 <b><a href="https://github.com/skfd/mobile-internet-widget">mobile-internet-widget</a></b><br>
 <sub>Windows 11 widget for Rogers/Fido data quotas · desktop app</sub>
 </td>
-<td valign="top" width="33%"></td>
+<td valign="top" width="33%">
+<a href="https://github.com/skfd/sky-session-claude"><img width="245" src="https://opengraph.githubassets.com/1/skfd/sky-session-claude"></a><br>
+<b><a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a></b><br>
+<sub>Browse & resume Claude Code sessions · desktop app</sub>
+</td>
 </tr>
 </table>
 
@@ -107,7 +117,6 @@
 <a href="https://github.com/skfd/address-layerist">address-layerist</a> — engine behind the address tile layers ·
 <a href="https://github.com/skfd/address-vault">address-vault</a> — tiered snapshot store feeding the address tooling ·
 <a href="https://github.com/skfd/against-interpolation">against-interpolation</a> — MapRoulette tasks to retire Toronto interpolation lines ·
-<a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a> — browse & resume Claude Code sessions ·
 <a href="https://skfd.github.io/colour_snake/">colour_snake</a> ·
 <a href="https://github.com/skfd/bikeshare-toronto-maproulette">bikeshare-toronto-maproulette</a> ·
 <a href="https://github.com/skfd/FixMeAwesome">FixMeAwesome</a> ·
