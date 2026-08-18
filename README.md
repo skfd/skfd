@@ -105,7 +105,7 @@
 </td>
 <td valign="top" width="33%">
 <a href="https://github.com/skfd/sky-session-claude"><img width="245" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/screenshot.png"></a><br>
-<b><a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a></b><br>
+<img height="16" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/icon-32.png"> <b><a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a></b><br>
 <sub>Browse & resume Claude Code sessions · desktop app</sub>
 </td>
 </tr>
