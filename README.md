@@ -111,6 +111,25 @@
 </tr>
 </table>
 
+<h3>Elsewhere</h3>
+
+<table>
+<tr>
+<td width="120" align="center" valign="middle">
+<a href="https://github.com/comentality"><img width="96" src="https://avatars.githubusercontent.com/u/7001816?s=200&amp;v=4"></a>
+</td>
+<td valign="middle">
+<b><a href="https://github.com/comentality">@comentality</a></b> · <sub>Dynamics 365 · Dataverse · XrmToolBox tooling</sub><br>
+<sub><i>A comment is a mind you can leave behind.</i></sub><br>
+<sub>
+<a href="https://github.com/comentality/xrm-document-template-x-ray">Document Template X-Ray</a> ·
+<a href="https://github.com/comentality/xrm-plugin-documenter">Plugin Documenter</a> ·
+<a href="https://github.com/comentality/xrm-events-2-code">Events2Code</a>
+</sub>
+</td>
+</tr>
+</table>
+
 <h3>Also</h3>
 
 <p><sub>
