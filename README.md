@@ -105,7 +105,7 @@
 </td>
 <td valign="top" width="33%">
 <a href="https://github.com/skfd/sky-session-claude"><img width="245" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/screenshot.png"></a><br>
-<img height="16" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/icon-32.png"> <b><a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a></b><br>
+<img height="16" align="middle" src="https://raw.githubusercontent.com/skfd/sky-session-claude/main/docs/icon-32.png"> <b><a href="https://github.com/skfd/sky-session-claude">sky-session-claude</a></b><br>
 <sub>Browse & resume Claude Code sessions · desktop app</sub>
 </td>
 </tr>
@@ -125,6 +125,20 @@
 <a href="https://github.com/comentality/xrm-document-template-x-ray">Document Template X-Ray</a> ·
 <a href="https://github.com/comentality/xrm-plugin-documenter">Plugin Documenter</a> ·
 <a href="https://github.com/comentality/xrm-events-2-code">Events2Code</a>
+</sub>
+</td>
+</tr>
+<tr>
+<td width="120" align="center" valign="middle">
+<a href="https://github.com/guelph-maps"><img width="96" src="https://avatars.githubusercontent.com/u/328863096?s=200&amp;v=4"></a>
+</td>
+<td valign="middle">
+<b><a href="https://github.com/guelph-maps">@guelph-maps</a></b> · <sub>Guelph open city data, in OpenStreetMap</sub><br>
+<sub><i>The gap is rarely the features; it is almost always the attributes.</i></sub><br>
+<sub>
+<a href="https://guelph-maps.github.io/guelph-parks-layer/">guelph-parks-layer</a> ·
+<a href="https://github.com/guelph-maps/guelph-address-import">guelph-address-import</a> ·
+<a href="https://github.com/guelph-maps/guelph-pitches-beholder">guelph-pitches-beholder</a>
 </sub>
 </td>
 </tr>
