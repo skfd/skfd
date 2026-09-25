@@ -1,4 +1,4 @@
-<p><sub>currently: generalizing Toronto address tooling into <a href="https://github.com/skfd/address-layerist">address-layerist</a></sub></p>
+<p><sub>currently: watching what Ontario municipalities quietly change in their open address data — <a href="https://github.com/skfd/ontario-address-changes">ontario-address-changes</a></sub></p>
 
 <h3>Toronto · OpenStreetMap & open-data tooling</h3>
 
@@ -43,7 +43,11 @@
 <b><a href="https://skfd.github.io/toronto-parks-layer/">toronto-parks-layer</a></b><br>
 <sub>Parks + green-space tiles · <a href="https://github.com/skfd/toronto-parks-layer"><code>code</code></a></sub>
 </td>
-<td valign="top"></td>
+<td valign="top">
+<a href="https://skfd.github.io/toronto-open-poi/"><img width="245" src="assets/shots/toronto-open-poi.jpg"></a><br>
+<b><a href="https://skfd.github.io/toronto-open-poi/">toronto-open-poi</a></b><br>
+<sub>What DineSafe &amp; BodySafe would add to OSM · <a href="https://github.com/skfd/toronto-open-poi"><code>code</code></a></sub>
+</td>
 <td valign="top"></td>
 </tr>
 </table>
@@ -89,6 +93,19 @@
 <b><a href="https://skfd.github.io/iba-cocktails/">iba-cocktails</a></b><br>
 <sub>All 87 official IBA cocktails, tracked · <a href="https://github.com/skfd/iba-cocktails"><code>code</code></a></sub>
 </td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://skfd.github.io/beef-phrasebook/"><img width="245" src="assets/shots/beef-phrasebook.jpg"></a><br>
+<b><a href="https://skfd.github.io/beef-phrasebook/">beef-phrasebook</a></b><br>
+<sub>One cow, seven butchery traditions, in 3D · <a href="https://github.com/skfd/beef-phrasebook"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://skfd.github.io/bar-birthday/"><img width="245" src="assets/shots/bar-birthday.jpg"></a><br>
+<b><a href="https://skfd.github.io/bar-birthday/">bar-birthday</a></b><br>
+<sub>Ontario pubs: how old, and how long on the map · <a href="https://github.com/skfd/bar-birthday"><code>code</code></a></sub>
+</td>
+<td valign="top"></td>
 </tr>
 </table>
 
