@@ -44,6 +44,15 @@
 <sub>Form event handlers → one JavaScript OnLoad · <a href="https://www.nuget.org/packages/Comentality.Events2Code"><code>nuget</code></a> · <a href="https://www.xrmtoolbox.com/plugins/plugininfo/?id=abb52b29-549b-f111-85cd-000d3ada56b9"><code>store</code></a></sub>
 </td>
 </tr>
+<tr>
+<td valign="top">
+<a href="https://github.com/comentality/xrm-icons"><img width="245" src="assets/shots/xrm-icons.jpg"></a><br>
+<img height="16" align="middle" src="https://raw.githubusercontent.com/comentality/.github/main/profile/assets/icons/xrm-icons.png?v=3"> <b><a href="https://github.com/comentality/xrm-icons">xrm-icons</a></b><br>
+<sub>21,698 icons, searched in Dynamics words, set on a table · <a href="https://www.nuget.org/packages/Comentality.Icons"><code>nuget</code></a> · <a href="https://www.xrmtoolbox.com/plugins/plugininfo/?id=3d42262a-36ce-f111-81be-000d3ab3d06e"><code>store</code></a></sub>
+</td>
+<td valign="top"></td>
+<td valign="top"></td>
+</tr>
 </table>
 
 <h3>Data stories (data journalism)</h3>
