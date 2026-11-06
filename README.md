@@ -1,4 +1,4 @@
-<p><sub>currently: watching what Ontario municipalities quietly change in their open address data — <a href="https://github.com/skfd/ontario-address-changes">ontario-address-changes</a></sub></p>
+<p><sub>currently: cataloguing Canada's open data for OSM — <a href="https://skfd.github.io/ontario-osm-data-sources/">ontario-osm-data-sources</a> · painting landuse — <a href="https://skfd.github.io/skyditor/">skyditor</a> · moving the UN — <a href="https://skfd.github.io/fair-un-hq/">fair-un-hq</a></sub></p>
 
 <h3>Windows software</h3>
 
@@ -66,7 +66,7 @@
 </td>
 <td valign="top" width="33%">
 <a href="https://skfd.github.io/canada-postal-code-changes/"><img width="245" src="assets/shots/canada-postal-code-changes.jpg"></a><br>
-<b><a href="https://skfd.github.io/canada-postal-code-changes/">canada-postal-code-changes</a></b><br>
+<b><a href="https://skfd.github.io/canada-postal-code-changes/">canada-postal-code-changes</a></b> <sup><code>dev</code></sup><br>
 <sub>Postal code change tracker · <a href="https://github.com/skfd/canada-postal-code-changes"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
@@ -77,7 +77,7 @@
 </tr>
 </table>
 
-<h3>Toronto · OpenStreetMap & open-data tooling</h3>
+<h3>Toronto and beyond · OpenStreetMap & open-data tooling</h3>
 
 <table>
 <tr>
@@ -122,10 +122,31 @@
 </td>
 <td valign="top">
 <a href="https://skfd.github.io/toronto-open-poi/"><img width="245" src="assets/shots/toronto-open-poi.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-open-poi/">toronto-open-poi</a></b><br>
+<b><a href="https://skfd.github.io/toronto-open-poi/">toronto-open-poi</a></b> <sup><code>dev</code></sup><br>
 <sub>What DineSafe &amp; BodySafe would add to OSM · <a href="https://github.com/skfd/toronto-open-poi"><code>code</code></a></sub>
 </td>
-<td valign="top"></td>
+<td valign="top">
+<a href="https://skfd.github.io/toronto-poster-columns-layer/"><img width="245" src="assets/shots/toronto-poster-columns-layer.jpg"></a><br>
+<b><a href="https://skfd.github.io/toronto-poster-columns-layer/">toronto-poster-columns-layer</a></b><br>
+<sub>Postering spots for iD/JOSM, with a gap check · <a href="https://github.com/skfd/toronto-poster-columns-layer"><code>code</code></a></sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://skfd.github.io/ontario-osm-data-sources/"><img width="245" src="assets/shots/ontario-osm-data-sources.jpg"></a><br>
+<b><a href="https://skfd.github.io/ontario-osm-data-sources/">ontario-osm-data-sources</a></b> <sup><code>dev</code></sup><br>
+<sub>Canada's open data, graded for OSM · <a href="https://github.com/skfd/ontario-osm-data-sources"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://skfd.github.io/sc-open-quests/"><img width="245" src="assets/shots/sc-open-quests.jpg"></a><br>
+<b><a href="https://skfd.github.io/sc-open-quests/">sc-open-quests</a></b> <sup><code>dev</code></sup><br>
+<sub>Open StreetComplete quests per city, daily · <a href="https://github.com/skfd/sc-open-quests"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://skfd.github.io/skyditor/"><img width="245" src="assets/shots/skyditor.jpg"></a><br>
+<b><a href="https://skfd.github.io/skyditor/">skyditor</a></b> <sup><code>dev</code></sup><br>
+<sub>Game-feel OSM landuse editor · <a href="https://github.com/skfd/skyditor"><code>code</code></a></sub>
+</td>
 </tr>
 </table>
 
@@ -136,36 +157,70 @@
 <table>
 <tr>
 <td valign="top" width="33%">
+<a href="https://guelph.bike/"><img width="245" src="assets/shots/guelph-bike-parking.jpg"></a><br>
+<b><a href="https://guelph.bike/">guelph.bike</a></b><br>
+<sub>486 bike parking locations, works with no signal · <a href="https://github.com/guelph-maps/guelph-bike-parking"><code>code</code></a></sub>
+</td>
+<td valign="top" width="33%">
+<a href="https://skfd.github.io/guelph-plaza-bike-parking/"><img width="245" src="assets/shots/guelph-plaza-bike-parking.jpg"></a><br>
+<b><a href="https://skfd.github.io/guelph-plaza-bike-parking/">guelph-plaza-bike-parking</a></b> <sup><code>dev</code></sup><br>
+<sub>Stars for plazas you can reach by bike · <a href="https://github.com/skfd/guelph-plaza-bike-parking"><code>code</code></a></sub>
+</td>
+<td valign="top" width="33%">
 <a href="https://guelph-maps.github.io/guelph-parks-layer/"><img width="245" src="assets/shots/guelph-parks-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-parks-layer/">guelph-parks-layer</a></b><br>
 <sub>126 City parks, outlined and named · <a href="https://guelph-maps.github.io/guelph-parks-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-parks-layer"><code>code</code></a></sub>
 </td>
-<td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top">
 <a href="https://guelph-maps.github.io/guelph-address-layer/"><img width="245" src="assets/shots/guelph-address-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-address-layer/">guelph-address-layer</a></b><br>
-<sub>53,847 address points as house numbers · <a href="https://github.com/guelph-maps/guelph-address-layer"><code>code</code></a></sub>
+<sub>55,895 address points as house numbers · <a href="https://github.com/guelph-maps/guelph-address-layer"><code>code</code></a></sub>
 </td>
-<td valign="top" width="33%">
+<td valign="top">
 <a href="https://guelph-maps.github.io/guelph-buildings-layer/"><img width="245" src="assets/shots/guelph-buildings-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-buildings-layer/">guelph-buildings-layer</a></b><br>
 <sub>38,945 building outlines, for tracing · <a href="https://guelph-maps.github.io/guelph-buildings-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-buildings-layer"><code>code</code></a></sub>
 </td>
-</tr>
-<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-bus-stops-layer/"><img width="245" src="assets/shots/guelph-bus-stops-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-bus-stops-layer/">guelph-bus-stops-layer</a></b><br>
-<sub>648 Guelph Transit stops, by stop number · <a href="https://guelph-maps.github.io/guelph-bus-stops-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-bus-stops-layer"><code>code</code></a></sub>
+<sub>651 Guelph Transit stops, by stop number · <a href="https://guelph-maps.github.io/guelph-bus-stops-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-bus-stops-layer"><code>code</code></a></sub>
 </td>
+</tr>
+<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-hydrants-layer/"><img width="245" src="assets/shots/guelph-hydrants-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-hydrants-layer/">guelph-hydrants-layer</a></b><br>
-<sub>3,537 fire hydrants, matched by position · <a href="https://guelph-maps.github.io/guelph-hydrants-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-hydrants-layer"><code>code</code></a></sub>
+<sub>3,545 fire hydrants, matched by position · <a href="https://guelph-maps.github.io/guelph-hydrants-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-hydrants-layer"><code>code</code></a></sub>
 </td>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-trees-layer/"><img width="245" src="assets/shots/guelph-trees-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-trees-layer/">guelph-trees-layer</a></b><br>
-<sub>42,712 street and park trees, by genus · <a href="https://guelph-maps.github.io/guelph-trees-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-trees-layer"><code>code</code></a></sub>
+<sub>43,043 street and park trees, by genus · <a href="https://guelph-maps.github.io/guelph-trees-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-trees-layer"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://guelph-maps.github.io/guelph-water-layer/"><img width="245" src="assets/shots/guelph-water-layer.jpg"></a><br>
+<b><a href="https://guelph-maps.github.io/guelph-water-layer/">guelph-water-layer</a></b><br>
+<sub>93 stormwater basins, with the creek corridors · <a href="https://guelph-maps.github.io/guelph-water-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-water-layer"><code>code</code></a></sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<a href="https://guelph-maps.github.io/guelph-gardens-layer/"><img width="245" src="assets/shots/guelph-gardens-layer.jpg"></a><br>
+<b><a href="https://guelph-maps.github.io/guelph-gardens-layer/">guelph-gardens-layer</a></b><br>
+<sub>43 community gardens, 27 pollinator patches · <a href="https://guelph-maps.github.io/guelph-gardens-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-gardens-layer"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://guelph-maps.github.io/guelph-sidewalks-layer/"><img width="245" src="assets/shots/guelph-sidewalks-layer.jpg"></a><br>
+<b><a href="https://guelph-maps.github.io/guelph-sidewalks-layer/">guelph-sidewalks-layer</a></b><br>
+<sub>716 km of sidewalk, for tracing · <a href="https://guelph-maps.github.io/guelph-sidewalks-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-sidewalks-layer"><code>code</code></a></sub>
+</td>
+<td valign="top">
+<a href="https://guelph-maps.github.io/guelph-bike-layer/"><img width="245" src="assets/shots/guelph-bike-layer.jpg"></a><br>
+<b><a href="https://guelph-maps.github.io/guelph-bike-layer/">guelph-bike-layer</a></b><br>
+<sub>210 km of bike lanes, tracks and routes · <a href="https://guelph-maps.github.io/guelph-bike-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-bike-layer"><code>code</code></a></sub>
 </td>
 </tr>
 </table>
@@ -204,10 +259,14 @@ Watchers: <a href="https://github.com/guelph-maps/guelph-address-import">guelph-
 </td>
 <td valign="top">
 <a href="https://skfd.github.io/bar-birthday/"><img width="245" src="assets/shots/bar-birthday.jpg"></a><br>
-<b><a href="https://skfd.github.io/bar-birthday/">bar-birthday</a></b><br>
+<b><a href="https://skfd.github.io/bar-birthday/">bar-birthday</a></b> <sup><code>dev</code></sup><br>
 <sub>Ontario pubs: how old, and how long on the map · <a href="https://github.com/skfd/bar-birthday"><code>code</code></a></sub>
 </td>
-<td valign="top"></td>
+<td valign="top">
+<a href="https://skfd.github.io/fair-un-hq/"><img width="245" src="assets/shots/fair-un-hq.jpg"></a><br>
+<b><a href="https://skfd.github.io/fair-un-hq/">fair-un-hq</a></b> <sup><code>dev</code></sup><br>
+<sub>Where a fair UN HQ would sit, 10,000 BC to 2100 · <a href="https://github.com/skfd/fair-un-hq"><code>code</code></a></sub>
+</td>
 </tr>
 </table>
 
@@ -219,7 +278,7 @@ Watchers: <a href="https://github.com/guelph-maps/guelph-address-import">guelph-
 <a href="https://github.com/skfd/against-interpolation">against-interpolation</a> — MapRoulette tasks to retire Toronto interpolation lines ·
 <a href="https://skfd.github.io/colour_snake/">colour_snake</a> ·
 <a href="https://github.com/skfd/bikeshare-toronto-maproulette">bikeshare-toronto-maproulette</a> ·
-<a href="https://github.com/skfd/FixMeAwesome">FixMeAwesome</a> ·
+<a href="https://github.com/skfd/OSMFieldNotes">OSMFieldNotes</a> ·
 <a href="https://github.com/skfd/toronto-addresses-import">toronto-addresses-import</a> (archived) ·
 <a href="https://skfd.github.io/toronto-waterways-layer/">toronto-waterways-layer</a> (archived)
 </sub></p>
