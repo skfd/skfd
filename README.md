@@ -20,6 +20,15 @@
 <sub>Browse & resume Claude Code sessions · desktop app</sub>
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+<a href="https://github.com/skfd/disk-health"><img width="245" src="assets/shots/disk-health.jpg"></a><br>
+<b><a href="https://github.com/skfd/disk-health">disk-health</a></b><br>
+<sub>Windows 11 widget for SSD/NVMe drive health · desktop app</sub>
+</td>
+<td valign="top" width="33%"></td>
+<td valign="top" width="33%"></td>
+</tr>
 </table>
 
 <h3><a href="https://github.com/comentality"><img height="20" align="top" src="https://avatars.githubusercontent.com/u/7001816?s=64&amp;v=4"></a> Comentality · XrmToolBox tools for Dynamics 365</h3>
