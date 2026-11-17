@@ -176,12 +176,17 @@
 <sub>Stars for plazas you can reach by bike · <a href="https://github.com/skfd/guelph-plaza-bike-parking"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
+<a href="https://guelph-maps.github.io/guelph-transit-animation/"><img width="245" src="assets/shots/guelph-transit-animation.jpg"></a><br>
+<b><a href="https://guelph-maps.github.io/guelph-transit-animation/">guelph-transit-animation</a></b><br>
+<sub>Guelph Transit's proposed network, where a bicycle races the bus · <a href="https://github.com/guelph-maps/guelph-transit-animation"><code>code</code></a></sub>
+</td>
+</tr>
+<tr>
+<td valign="top">
 <a href="https://guelph-maps.github.io/guelph-parks-layer/"><img width="245" src="assets/shots/guelph-parks-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-parks-layer/">guelph-parks-layer</a></b><br>
 <sub>126 City parks, outlined and named · <a href="https://guelph-maps.github.io/guelph-parks-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-parks-layer"><code>code</code></a></sub>
 </td>
-</tr>
-<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-address-layer/"><img width="245" src="assets/shots/guelph-address-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-address-layer/">guelph-address-layer</a></b><br>
@@ -192,13 +197,13 @@
 <b><a href="https://guelph-maps.github.io/guelph-buildings-layer/">guelph-buildings-layer</a></b><br>
 <sub>38,945 building outlines, for tracing · <a href="https://guelph-maps.github.io/guelph-buildings-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-buildings-layer"><code>code</code></a></sub>
 </td>
+</tr>
+<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-bus-stops-layer/"><img width="245" src="assets/shots/guelph-bus-stops-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-bus-stops-layer/">guelph-bus-stops-layer</a></b><br>
 <sub>651 Guelph Transit stops, by stop number · <a href="https://guelph-maps.github.io/guelph-bus-stops-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-bus-stops-layer"><code>code</code></a></sub>
 </td>
-</tr>
-<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-hydrants-layer/"><img width="245" src="assets/shots/guelph-hydrants-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-hydrants-layer/">guelph-hydrants-layer</a></b><br>
@@ -209,13 +214,13 @@
 <b><a href="https://guelph-maps.github.io/guelph-trees-layer/">guelph-trees-layer</a></b><br>
 <sub>43,043 street and park trees, by genus · <a href="https://guelph-maps.github.io/guelph-trees-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-trees-layer"><code>code</code></a></sub>
 </td>
+</tr>
+<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-water-layer/"><img width="245" src="assets/shots/guelph-water-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-water-layer/">guelph-water-layer</a></b><br>
 <sub>93 stormwater basins, with the creek corridors · <a href="https://guelph-maps.github.io/guelph-water-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-water-layer"><code>code</code></a></sub>
 </td>
-</tr>
-<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-gardens-layer/"><img width="245" src="assets/shots/guelph-gardens-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-gardens-layer/">guelph-gardens-layer</a></b><br>
@@ -226,6 +231,8 @@
 <b><a href="https://guelph-maps.github.io/guelph-sidewalks-layer/">guelph-sidewalks-layer</a></b><br>
 <sub>716 km of sidewalk, for tracing · <a href="https://guelph-maps.github.io/guelph-sidewalks-layer/gaps/">gaps</a> · <a href="https://github.com/guelph-maps/guelph-sidewalks-layer"><code>code</code></a></sub>
 </td>
+</tr>
+<tr>
 <td valign="top">
 <a href="https://guelph-maps.github.io/guelph-bike-layer/"><img width="245" src="assets/shots/guelph-bike-layer.jpg"></a><br>
 <b><a href="https://guelph-maps.github.io/guelph-bike-layer/">guelph-bike-layer</a></b><br>
