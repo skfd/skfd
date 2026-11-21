@@ -91,14 +91,14 @@
 <table>
 <tr>
 <td valign="top" width="33%">
-<a href="https://skfd.github.io/toronto-streets-osm/"><img width="245" src="assets/shots/toronto-streets-osm.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-streets-osm/">toronto-streets-osm</a></b><br>
-<sub>Centreline ↔ OSM road QA · <a href="https://github.com/skfd/toronto-streets-osm"><code>code</code></a></sub>
+<a href="https://toronto-maps.github.io/toronto-streets-osm/"><img width="245" src="assets/shots/toronto-streets-osm.jpg"></a><br>
+<b><a href="https://toronto-maps.github.io/toronto-streets-osm/">toronto-streets-osm</a></b><br>
+<sub>Centreline ↔ OSM road QA · <a href="https://github.com/toronto-maps/toronto-streets-osm"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
-<a href="https://skfd.github.io/toronto-streets-layer/"><img width="245" src="assets/shots/toronto-streets-layer.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-streets-layer/">toronto-streets-layer</a></b><br>
-<sub>Street tiles for iD/JOSM · <a href="https://github.com/skfd/toronto-streets-layer"><code>code</code></a></sub>
+<a href="https://toronto-maps.github.io/toronto-streets-layer/"><img width="245" src="assets/shots/toronto-streets-layer.jpg"></a><br>
+<b><a href="https://toronto-maps.github.io/toronto-streets-layer/">toronto-streets-layer</a></b><br>
+<sub>Street tiles for iD/JOSM · <a href="https://github.com/toronto-maps/toronto-streets-layer"><code>code</code></a></sub>
 </td>
 <td valign="top" width="33%">
 <a href="https://skfd.github.io/ontario-address-changes/"><img width="245" src="assets/shots/ontario-address-changes.jpg"></a><br>
@@ -108,14 +108,14 @@
 </tr>
 <tr>
 <td valign="top">
-<a href="https://skfd.github.io/toronto-2-address-import/"><img width="245" src="assets/shots/toronto-2-address-import.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-2-address-import/">toronto-2-address-import</a></b><br>
-<sub>Address conflation + review UI · <a href="https://github.com/skfd/toronto-2-address-import"><code>code</code></a></sub>
+<a href="https://toronto-maps.github.io/toronto-2-address-import/"><img width="245" src="assets/shots/toronto-2-address-import.jpg"></a><br>
+<b><a href="https://toronto-maps.github.io/toronto-2-address-import/">toronto-2-address-import</a></b><br>
+<sub>Address conflation + review UI · <a href="https://github.com/toronto-maps/toronto-2-address-import"><code>code</code></a></sub>
 </td>
 <td valign="top">
-<a href="https://skfd.github.io/toronto-addresses-layer/"><img width="245" src="assets/shots/toronto-addresses-layer.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-addresses-layer/">toronto-addresses-layer</a></b><br>
-<sub>Address tiles for iD/JOSM · <a href="https://github.com/skfd/toronto-addresses-layer"><code>code</code></a></sub>
+<a href="https://toronto-maps.github.io/toronto-addresses-layer/"><img width="245" src="assets/shots/toronto-addresses-layer.jpg"></a><br>
+<b><a href="https://toronto-maps.github.io/toronto-addresses-layer/">toronto-addresses-layer</a></b><br>
+<sub>Address tiles for iD/JOSM · <a href="https://github.com/toronto-maps/toronto-addresses-layer"><code>code</code></a></sub>
 </td>
 <td valign="top">
 <a href="https://skfd.github.io/oakville-address-layer/"><img width="245" src="assets/shots/oakville-address-layer.jpg"></a><br>
@@ -125,19 +125,19 @@
 </tr>
 <tr>
 <td valign="top">
-<a href="https://skfd.github.io/toronto-parks-layer/"><img width="245" src="assets/shots/toronto-parks-layer.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-parks-layer/">toronto-parks-layer</a></b><br>
-<sub>Parks + green-space tiles · <a href="https://github.com/skfd/toronto-parks-layer"><code>code</code></a></sub>
+<a href="https://toronto-maps.github.io/toronto-parks-layer/"><img width="245" src="assets/shots/toronto-parks-layer.jpg"></a><br>
+<b><a href="https://toronto-maps.github.io/toronto-parks-layer/">toronto-parks-layer</a></b><br>
+<sub>Parks + green-space tiles · <a href="https://github.com/toronto-maps/toronto-parks-layer"><code>code</code></a></sub>
 </td>
 <td valign="top">
-<a href="https://skfd.github.io/toronto-open-poi/"><img width="245" src="assets/shots/toronto-open-poi.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-open-poi/">toronto-open-poi</a></b> <sup><code>dev</code></sup><br>
-<sub>What DineSafe &amp; BodySafe would add to OSM · <a href="https://github.com/skfd/toronto-open-poi"><code>code</code></a></sub>
+<a href="https://toronto-maps.github.io/toronto-open-poi/"><img width="245" src="assets/shots/toronto-open-poi.jpg"></a><br>
+<b><a href="https://toronto-maps.github.io/toronto-open-poi/">toronto-open-poi</a></b> <sup><code>dev</code></sup><br>
+<sub>What DineSafe &amp; BodySafe would add to OSM · <a href="https://github.com/toronto-maps/toronto-open-poi"><code>code</code></a></sub>
 </td>
 <td valign="top">
-<a href="https://skfd.github.io/toronto-poster-columns-layer/"><img width="245" src="assets/shots/toronto-poster-columns-layer.jpg"></a><br>
-<b><a href="https://skfd.github.io/toronto-poster-columns-layer/">toronto-poster-columns-layer</a></b><br>
-<sub>Postering spots for iD/JOSM, with a gap check · <a href="https://github.com/skfd/toronto-poster-columns-layer"><code>code</code></a></sub>
+<a href="https://toronto-maps.github.io/toronto-poster-columns-layer/"><img width="245" src="assets/shots/toronto-poster-columns-layer.jpg"></a><br>
+<b><a href="https://toronto-maps.github.io/toronto-poster-columns-layer/">toronto-poster-columns-layer</a></b><br>
+<sub>Postering spots for iD/JOSM, with a gap check · <a href="https://github.com/toronto-maps/toronto-poster-columns-layer"><code>code</code></a></sub>
 </td>
 </tr>
 <tr>
@@ -295,8 +295,8 @@ Watchers: <a href="https://github.com/guelph-maps/guelph-address-import">guelph-
 <a href="https://skfd.github.io/colour_snake/">colour_snake</a> ·
 <a href="https://github.com/skfd/bikeshare-toronto-maproulette">bikeshare-toronto-maproulette</a> ·
 <a href="https://github.com/skfd/OSMFieldNotes">OSMFieldNotes</a> ·
-<a href="https://github.com/skfd/toronto-addresses-import">toronto-addresses-import</a> (archived) ·
-<a href="https://skfd.github.io/toronto-waterways-layer/">toronto-waterways-layer</a> (archived)
+<a href="https://github.com/toronto-maps/toronto-addresses-import">toronto-addresses-import</a> (archived) ·
+<a href="https://toronto-maps.github.io/toronto-waterways-layer/">toronto-waterways-layer</a> (archived)
 </sub></p>
 
 <!-- Repo must be named exactly "skfd" to render on your profile. Thumbnails live in assets/shots/. -->
